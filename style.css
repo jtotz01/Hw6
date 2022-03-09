@@ -1,0 +1,47 @@
+body {
+	background-color: #FFFFF;
+	font-family: 'Arial', sans-serif;
+}
+
+
+.header {
+	text-align: center; 
+	padding-top: 100px; 
+}
+
+.container h2 {
+	text-align: center; 
+	padding-top: 10px;
+}
+
+h3 {
+	text-align: center;
+	text-decoration: underline;
+}
+
+.check_section {
+    display: flex;
+    flex-direction: column;
+    margin:auto;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+
+.input2 {
+	padding:15px;
+}
+
+#result {
+    text-align: center;
+}
+
+
+#factor1 {
+    text-align: center;
+}
+
+
+#factor2 {
+    text-align: center;
+}
